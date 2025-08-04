@@ -1,0 +1,22 @@
+[
+  {
+    "model": "bookings.fitnessclass",
+    "pk": 1,
+    "fields": {
+      "name": "Yoga",
+      "datetime": "2025-08-07T10:00:00+05:30",
+      "instructor": "Aarti Sharma",
+      "available_slots": 10
+    }
+  },
+  {
+    "model": "bookings.fitnessclass",
+    "pk": 2,
+    "fields": {
+      "name": "Zumba",
+      "datetime": "2025-08-08T17:00:00+05:30",
+      "instructor": "Raj Patel",
+      "available_slots": 8
+    }
+  }
+]
